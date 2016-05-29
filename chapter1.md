@@ -49,4 +49,4 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 *** =attachments
-my_project: https://s3.amazonaws.com/assets.datacamp.com/production/course_944/datasets/my_project
+my_project/: https://s3.amazonaws.com/assets.datacamp.com/production/course_944/datasets/my_project
